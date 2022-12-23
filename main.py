@@ -5,8 +5,8 @@ import telebot
 ##TOKEN DETAILS
 TOKEN = "ONS"
 
-BOT_TOKEN = "5989686791:AAE49Nzp_HfGEgi84ac36NMQ2k8IBxWtW-8"
-OWNER_ID = 5458705482 #write owner's user id here.. get it from @MissRose_Bot by /id
+BOT_TOKEN = "5931268983:AAFfqM6O4q0heZB6AP3fj5tNcMUcWCshA1c"
+OWNER_ID = 1726966074 #write owner's user id here.. get it from @MissRose_Bot by /id
 CHANNELS = ["@ONSBAseE"] #add channels to be checked here in the format - ["Channel 1", "Channel 2"] 
 RATE_CHANNEL = "@onsbasee" #you can add as many channels here and also add the '@' sign before channel username
 MENFES_CHANNEL = "@menfesonsbase"
